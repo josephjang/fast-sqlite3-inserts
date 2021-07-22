@@ -1,0 +1,19 @@
+{
+  "name": "fast-sqlite3-inserts",
+  "version": "1.0.0",
+  "description": "To find out the fastest way to create an SQLite DB with one billion random rows.",
+  "main": "busy_loop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avinassh/fast-sqlite3-inserts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avinassh/fast-sqlite3-inserts/issues"
+  },
+  "homepage": "https://github.com/avinassh/fast-sqlite3-inserts#readme"
+}
