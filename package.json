@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/avinassh/fast-sqlite3-inserts/issues"
   },
-  "homepage": "https://github.com/avinassh/fast-sqlite3-inserts#readme"
+  "homepage": "https://github.com/avinassh/fast-sqlite3-inserts#readme",
+  "dependencies": {
+    "better-sqlite3": "^7.4.3",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.31.0",
+    "eslint-config-airbnb-base": "^14.2.1"
+  }
 }
